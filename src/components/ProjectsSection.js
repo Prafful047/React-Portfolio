@@ -8,25 +8,25 @@ const projects = [
     title: "My MusicZone",
     description:
       "A web based music player developed to understand and implement its functionalities using JavaScript.",
-    getImageSrc: () => require("../images/photo1.jpg"),
+    getImageSrc: () => require("../images/photo7.png"),
   },
   {
     title: "Currency Converter",
     description:
       "A seamless tool designed to simplify global transactions , developed to understand the functionalities of APIs in JavaScript.",
-    getImageSrc: () => require("../images/photo2.jpg"),
+    getImageSrc: () => require("../images/photo9.png"),
   },
   {
     title: "Calculator using React",
     description:
       "A simple calculator used to do basic arithmetic operations developed using React",
-    getImageSrc: () => require("../images/photo3.jpg"),
+    getImageSrc: () => require("../images/photo5.png"),
   },
   {
     title: "Portfolio using HTML and CSS",
     description:
       "My first project built using raw HTML and CSS , helped me increase my proficiency in the languages",
-    getImageSrc: () => require("../images/photo4.jpg"),
+    getImageSrc: () => require("../images/photo8.png"),
   },
 ];
 
